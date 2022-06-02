@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("Adonetik")]
+[assembly: AssemblyTitle("adonet")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Adonetik")]
+[assembly: AssemblyProduct("adonet")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("1051dd55-4c6d-4cc1-ab96-ade9dbec14c0")]
+[assembly: Guid("6dc0ed47-0e46-4b65-8d29-dcda274c9e65")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

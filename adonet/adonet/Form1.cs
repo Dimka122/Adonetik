@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Adonetik
+namespace adonet
 {
     public partial class Form1 : Form
     {

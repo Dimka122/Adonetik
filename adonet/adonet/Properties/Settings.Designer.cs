@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Adonetik.Properties
+namespace adonet.Properties
 {
 
 
