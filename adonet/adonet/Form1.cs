@@ -29,8 +29,12 @@ namespace adonet
             _context = new ProductsEntities();
             _context.Categories.Load();
 
+
+
             this.categoriesBindingSource.DataSource =
                 _context.Categories.Local.ToBindingList();
+
+           
         }
 
 
