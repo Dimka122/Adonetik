@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43E9F9E9-3E93-4143-B8C5-47BE3E2BC115}</ProjectGuid>
+    <ProjectGuid>{55607D62-7093-4176-B78C-DB618F80DD73}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ADONETTT</RootNamespace>
-    <AssemblyName>ADONETTT</AssemblyName>
+    <RootNamespace>WinFormsAdo</RootNamespace>
+    <AssemblyName>WinFormsAdo</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

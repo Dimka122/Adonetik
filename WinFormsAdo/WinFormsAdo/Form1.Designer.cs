@@ -1,4 +1,4 @@
-﻿namespace ADONETTT
+﻿namespace WinFormsAdo
 {
     partial class Form1
     {

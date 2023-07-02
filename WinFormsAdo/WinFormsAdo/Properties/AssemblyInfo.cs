@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("ADONETTT")]
+[assembly: AssemblyTitle("WinFormsAdo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADONETTT")]
+[assembly: AssemblyProduct("WinFormsAdo")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("43e9f9e9-3e93-4143-b8c5-47be3e2bc115")]
+[assembly: Guid("55607d62-7093-4176-b78c-db618f80dd73")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
