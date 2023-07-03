@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WinFormsAdo.Properties
+namespace ADONETishee.Properties
 {
 
 
