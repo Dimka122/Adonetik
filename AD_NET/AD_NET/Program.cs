@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ADONETishee
+namespace AD_NET
 {
     internal static class Program
     {

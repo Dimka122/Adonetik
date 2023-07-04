@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ADONETishee.Properties
+namespace AD_NET.Properties
 {
 
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("ADONETishee")]
+[assembly: AssemblyTitle("AD_NET")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADONETishee")]
+[assembly: AssemblyProduct("AD_NET")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("8e7a11eb-186d-42bd-b8ec-ffd68b7599d3")]
+[assembly: Guid("4a2ca64c-14aa-450b-908e-15c6cae72d95")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
